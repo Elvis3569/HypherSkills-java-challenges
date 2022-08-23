@@ -1,0 +1,33 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.*;
+
+    public class Main {
+        public static void main(String[] args) {
+            // write your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10613#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 8. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    1 2 3
+    5 6 4
+    Correct output:
+    Box 1 < Box 2
+
+    Your code output:
+    Input box 1
+    Input box 2
+    Box 1 < Box 2
+  time: Thu, 18 Aug 2022 13:32:55 UTC
+record: -1
