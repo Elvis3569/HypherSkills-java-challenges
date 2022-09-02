@@ -31,6 +31,8 @@
             <option value="$PROJECT_DIR$/Topics/Getters and setters/Choose a pair of getter and setter" />
             <option value="$PROJECT_DIR$/Topics/Getters and setters/Getting the fullname" />
             <option value="$PROJECT_DIR$/Topics/Getters and setters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Base class" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Theory" />
             <option value="$PROJECT_DIR$/Topics/Inheritance/Classes for Hospital" />
             <option value="$PROJECT_DIR$/Topics/Inheritance/Find the same hierarchy" />
             <option value="$PROJECT_DIR$/Topics/Inheritance/Incorrect class hierarchies" />
@@ -66,6 +68,11 @@
             <option value="$PROJECT_DIR$/Topics/NPE/Avoid NPE" />
             <option value="$PROJECT_DIR$/Topics/NPE/Theory" />
             <option value="$PROJECT_DIR$/Topics/NPE/Where NPE might occur" />
+            <option value="$PROJECT_DIR$/Topics/Objects/Change identities" />
+            <option value="$PROJECT_DIR$/Topics/Objects/Find reference types" />
+            <option value="$PROJECT_DIR$/Topics/Objects/Null or not" />
+            <option value="$PROJECT_DIR$/Topics/Objects/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Objects/What is my age" />
             <option value="$PROJECT_DIR$/Topics/Package/Binary search" />
             <option value="$PROJECT_DIR$/Topics/Package/Package features" />
             <option value="$PROJECT_DIR$/Topics/Package/Theory" />
