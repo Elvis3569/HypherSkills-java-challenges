@@ -16,3 +16,5 @@ content:
 - Objects
 - Hierarchy of exceptions
 - Exception handling
+- Throwing exceptions
+- Custom exceptions
